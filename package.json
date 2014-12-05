@@ -1,0 +1,25 @@
+{
+  "name": "crook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": {
+    "name": "Ricardo Barros",
+    "email": "ricardofbarros@hotmail.com"
+  },
+  "main": "./index.js",
+  "bugs": {
+    "url": "http://github.com/ricardofbarros/crook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/ricardofbarros/crook.git"
+  },
+  "engines": {
+    "node": ">= 0.10"
+  },
+  "license": "MIT",
+}
